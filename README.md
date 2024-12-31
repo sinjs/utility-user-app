@@ -1,15 +1,3 @@
-# utility-user-app
+# Utility User App
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run src/server.ts
-```
-
-This project was created using `bun init` in bun v1.1.24. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+This repository has been moved to [sinjs/liege-bot](https://github.com/sinjs/liege-bot). The old source code, which was not written Rust can be viewed under the [sinjs/liege-bot:old](https://github.com/sinjs/liege-bot/tree/old) branch.  
